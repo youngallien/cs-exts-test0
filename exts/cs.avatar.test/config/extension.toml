@@ -7,7 +7,7 @@ authors = ["NVIDIA"]
 
 # The title and description fields are primarily for displaying extension info in UI
 title = "cs avatar test"
-description="A simple python extension example to use as a starting point for your extensions."
+description="A simple extension for cs-avatar test."
 
 # Path (relative to the root) or content of readme markdown file for UI.
 readme  = "docs/README.md"
